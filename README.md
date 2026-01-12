@@ -1,8 +1,6 @@
-## Hi there 👋
 
-**datawithibrahim/datawithibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hey there.
+#### Hey there.
 
 I’m Ibrahim Shaikh, a junior business analyst currently pursuing an MBA in Operations & Data Science from NMIMS Global.
 

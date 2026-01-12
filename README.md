@@ -16,4 +16,4 @@ I’ve worked on projects related to:
 - Revenue optimization  
 - Sales and customer behavior analysis  
 
-I’m also building a master repository called **Business Case Book** — a growing collection of real world style business problems and analyses that reflect how I approach learning and problem-solving as an analyst.
+I’m also building a master repository called **Business Case Book** a growing collection of real world style business problems and analyses that reflect how I approach learning and problem-solving as an analyst.

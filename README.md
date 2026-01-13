@@ -2,7 +2,7 @@
 
 ### Hey there.
 
-I’m Ibrahim Shaikh, a junior business analyst. I have a Bachelor’s degree in Computer Science & currently pursuing an MBA in Operations & Data Science from NMIMS Global.
+I’m Ibrahim, a junior business analyst. I have a Bachelor’s degree in Computer Science & currently pursuing an MBA in Operations & Data Science from NMIMS Global.
 
 I’m working toward becoming a data/business analyst who does more than write queries or build dashboards. My focus is on understanding how businesses actually work   how revenue is generated, where it leaks, and how data should support decisions.
 
